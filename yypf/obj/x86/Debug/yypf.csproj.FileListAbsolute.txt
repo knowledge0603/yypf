@@ -1,0 +1,9 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\bin\Debug\yypf.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\bin\Debug\yypf.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\yypf.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\yypf.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\yypf.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\yypf\yypf\obj\x86\Debug\yypf.pdb
